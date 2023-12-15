@@ -1,1 +1,1 @@
-##Expandable Carousel Example Project using varioius Js Libraries 
+Expandable Carousel Example Project using varioius Js Libraries 
